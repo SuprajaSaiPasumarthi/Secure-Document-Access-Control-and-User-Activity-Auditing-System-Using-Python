@@ -1,0 +1,2 @@
+# Secure-Document-Access-Control-and-User-Activity-Auditing-System-Using-Python
+A Python-based secure document management system designed to prevent unauthorized document access and ensure data confidentiality. The system implements user authentication, role-based access control (RBAC), document ownership, and permission-based authorization.  It records every document access attempt, including the user identity
